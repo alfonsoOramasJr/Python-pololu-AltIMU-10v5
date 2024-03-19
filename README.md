@@ -8,3 +8,6 @@ Or use pip to install the latest edition with,
 ```pip install smbus2```
 
 Example code is provided.
+
+## Wiring up a Pololu Altimu-10v5
+The following is an example of how to wire up the sensor.
